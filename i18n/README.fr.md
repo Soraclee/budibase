@@ -116,7 +116,7 @@ Ou utilisez Budibase Cloud si vous n'avez pas besoin de vous auto-héberger, et 
 
 ## 🎓 Apprendre Budibase
 
-La documentation Budibase [est ic](https://docs.budibase.com).
+La documentation Budibase [est ici](https://docs.budibase.com).
 <br />
 
 
